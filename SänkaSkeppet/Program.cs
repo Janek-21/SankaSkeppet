@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string message = "Update your GITHUB!!!!";
+            Console.WriteLine(message);
         }
     }
 }
